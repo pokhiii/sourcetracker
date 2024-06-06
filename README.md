@@ -19,7 +19,7 @@ This is an [extension for CiviCRM](https://docs.civicrm.org/sysadmin/en/latest/c
 4. Use this field in any Profile
    - Include this field in any Profile
    - Use the Profile for registrations. Eg. in WordPress it is equivalent to using the shortcode on a WordPress page.
-   - Add the UTM parameter at the end of the registration form page URL. ( like  `?utm_source=whatsapp` )
+   - Add the UTM parameter at the end of the registration form page URL. Eg. `?utm_source=whatsapp`
    - Submit the registration form
    - Navigate to the **Search** > **Find contacts**
    - Click on the contract you registered; you will see the source field at the bottom of the detail form
