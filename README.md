@@ -6,7 +6,7 @@ This is an [extension for CiviCRM](https://docs.civicrm.org/sysadmin/en/latest/c
 ## Getting Started
 
 1. Download the extension: [Download ZIP](https://github.com/pokhiii/sourcetracker/archive/refs/heads/main.zip)
-    - Extract the zip file and named as sourcetracker
+1. Extract the zip file and rename it from `sourcetracker-main` to simply `sourcetracker`
     - Move the extension (unzipped) to your CiviCRM extension directory. Eg. in WordPress it is will be `path/to/wordpress/wp-content/uploads/civicrm/ext`
 2. Install the extension
     - Navigate to the **Administer** > **System Setting** > **Extension**
