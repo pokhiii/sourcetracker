@@ -5,7 +5,7 @@ This is an [extension for CiviCRM](https://docs.civicrm.org/sysadmin/en/latest/c
 
 ## Getting Started
 
-1. Download the extension in zip file
+1. Download the extension: [Download ZIP](https://github.com/pokhiii/sourcetracker/archive/refs/heads/main.zip)
     - Extract the zip file and named as sourcetracker
     - Changed the directory of file to civicrm\wp-content\uploads\civicrm\ext
 2. Install the extension
