@@ -17,7 +17,7 @@ This is an [extension for CiviCRM](https://docs.civicrm.org/sysadmin/en/latest/c
     - Create a custom field named `Source` (the name should be the same & case-sensitive) and mark **hidden** on Field Input Type
 	
 4. Use this field in any Profile
-   - Include this field in any Profile (as type hidden)
+   - Include this field in any Profile
    - Use the Profile for registrations. Eg. in WordPress it is equivalent to using the shortcode on a WordPress page.
    - Add the UTM parameter at the end of the registration form page URL. ( like  `?utm_source=whatsapp` )
    - Submit the registration form
