@@ -9,14 +9,15 @@ This is an [extension for CiviCRM](https://docs.civicrm.org/sysadmin/en/latest/c
 1. Extract the zip file and rename it from `sourcetracker-main` to simply `sourcetracker`
     - Move the extension (unzipped) to your CiviCRM extension directory. Eg. in WordPress it is will be `path/to/wordpress/wp-content/uploads/civicrm/ext`
 2. Install the extension
+    - Login to your CMS and navigate to the CiviCRM dashboard
     - Navigate to the **Administer** > **System Setting** > **Extension**
     - Find **Source Tracker** in extension and install it (Refresh the page if you can't see the source tracker extension)
-3. Create a custom field named `Source`
+4. Create a custom field named `Source`
     - Navigate To the **Administer** > **Customize Data and Screen** > **Custom Field**
     - Click on **Add Set of Custom Fields**
     - Create a custom field named `Source` (the name should be the same & case-sensitive) and mark **hidden** on Field Input Type
 	
-4. Use this field in any Profile
+5. Use this field in any Profile
    - Include this field in any Profile
    - Use the Profile for registrations. Eg. in WordPress it is equivalent to using the shortcode on a WordPress page.
    - Add the UTM parameter at the end of the registration form page URL. Eg. `?utm_source=whatsapp`
