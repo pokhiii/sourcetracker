@@ -22,7 +22,7 @@ This is an [extension for CiviCRM](https://docs.civicrm.org/sysadmin/en/latest/c
    - Add the UTM parameter at the end of the registration form page URL. Eg. `?utm_source=whatsapp`
    - Submit the registration form
    - Navigate to the **Search** > **Find contacts**
-   - Click on the contract you registered; you will see the source field at the bottom of the detail form
+   - Click on the contact you registered; you will see the Source field filled with the value in the `utm_source`
 
 ## Known Issues
 
