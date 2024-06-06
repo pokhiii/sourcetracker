@@ -14,7 +14,7 @@ This is an [extension for CiviCRM](https://docs.civicrm.org/sysadmin/en/latest/c
 3. Create a custom field named `Source`
     - Navigate To the **Administer** > **Customize Data and Screen** > **Custom Field**
     - Click on **Add Set of Custom Fields**
-    - Create custom field named `Source` (the name should be exactly same & case-sensitive) and mark **hidden** on Field Input Type *	
+    - Create a custom field named `Source` (the name should be the same & case-sensitive) and mark **hidden** on Field Input Type
 	
 4. Use this field in any Profile
    - Include this field in any Profile (as type hidden)
